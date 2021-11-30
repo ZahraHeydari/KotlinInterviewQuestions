@@ -15,12 +15,12 @@ To make it short and simple without reducing the number of questions, I have put
 ### 5.What is Elvis operator in Kotlin?
 [read this link](https://kotlinlang.org/docs/null-safety.html#elvis-operator)
 
-### 5.What is Null Check operator in Kotlin?
+### 6.What is Null Check operator in Kotlin?
 [read this link](https://kotlinlang.org/docs/null-safety.html#the-operator)
 
-### 6.What are Safe Casts in Kotlin?
+### 7.What are Safe Casts in Kotlin?
 [read this link](https://kotlinlang.org/docs/null-safety.html#safe-casts)
 
-### 7.Does Kotlin have primitive data types? 
+### 8.Does Kotlin have primitive data types? 
 [read this link](https://medium.com/@przemek.materna/kotlin-is-not-primitive-primitives-in-kotlin-and-java-f35713fda5cd)
 
