@@ -3,12 +3,24 @@ Here in this repository, I will be sharing some top Kotlin interview questions w
 
 To make it short and simple without reducing the number of questions, I have put the link of answers to every question.
 
-### 1.What is the difference between 'const' and 'val'? 
+### 1.How does Kotlin work on Android?
+### 2.Why should we use Kotlin?
+
+### 3.What is the difference between 'const' and 'val'? 
 [read this link](https://blog.mindorks.com/what-is-the-difference-between-const-and-val)
 
-### 2.What is Null Safety in Kotlin? 
+### 4.What is Null Safety in Kotlin? 
 [read this link](https://kotlinlang.org/docs/null-safety.html)
 
-### 3.Does Kotlin have primitive data types? 
+### 5.What is Elvis operator in Kotlin?
+[read this link](https://kotlinlang.org/docs/null-safety.html#elvis-operator)
+
+### 5.What is Null Check operator in Kotlin?
+[read this link](https://kotlinlang.org/docs/null-safety.html#the-operator)
+
+### 6.What are Safe Casts in Kotlin?
+[read this link](https://kotlinlang.org/docs/null-safety.html#safe-casts)
+
+### 7.Does Kotlin have primitive data types? 
 [read this link](https://medium.com/@przemek.materna/kotlin-is-not-primitive-primitives-in-kotlin-and-java-f35713fda5cd)
 
