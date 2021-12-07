@@ -16,11 +16,20 @@ To make it short and simple without reducing the number of questions, I have put
 [read this link](https://kotlinlang.org/docs/null-safety.html#elvis-operator)
 
 ### 6.What is Null Check operator in Kotlin?
+[read this link](https://kotlinlang.org/docs/null-safety.html#safe-calls)
+
+### 7.What is Not Null Assertion operator in Kotlin?
 [read this link](https://kotlinlang.org/docs/null-safety.html#the-operator)
 
-### 7.What are Safe Casts in Kotlin?
+### 8.What are Safe Casts in Kotlin?
 [read this link](https://kotlinlang.org/docs/null-safety.html#safe-casts)
 
-### 8.Does Kotlin have primitive data types? 
+### 9.Does Kotlin have primitive data types? 
 [read this link](https://medium.com/@przemek.materna/kotlin-is-not-primitive-primitives-in-kotlin-and-java-f35713fda5cd)
+
+### 10.What is Data Class in Kotlin?
+[read this link](https://kotlinlang.org/docs/data-classes.html)
+
+### 11.What is Property in Kotlin?
+[read this link](https://kotlinlang.org/docs/properties.html#declaring-properties)
 
