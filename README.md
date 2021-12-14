@@ -33,3 +33,16 @@ To make it short and simple without reducing the number of questions, I have put
 ### 11.What is Property in Kotlin?
 [read this link](https://kotlinlang.org/docs/properties.html#declaring-properties)
 
+### 12.What are Backing Fields?
+[read this link](https://medium.com/@nomanr/backing-field-in-kotlin-explained-9f903f27946c)
+
+### 13.What are Backing Properties?
+[read this link](https://kotlinlang.org/docs/properties.html#backing-properties)
+
+### 14.Is Overriding properties supported in Kotlin?
+[read this link](https://kotlinlang.org/docs/inheritance.html#overriding-properties)
+
+### 15.What are Delegated properties?
+[read this link](https://kotlinlang.org/docs/delegated-properties.html)
+
+
