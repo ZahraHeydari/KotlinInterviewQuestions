@@ -45,4 +45,15 @@ To make it short and simple without reducing the number of questions, I have put
 ### 15.What are Delegated properties?
 [read this link](https://kotlinlang.org/docs/delegated-properties.html)
 
+### 16.What are Lazy properties?
+### 17.What are Observable properties?
+### 18.What are Storing properties?
+[read this link](https://kotlinlang.org/docs/delegated-properties.html)
 
+### 19.What are Enum classes?
+[read this link](https://kotlinlang.org/docs/enum-classes.html)
+
+### 20.What are Sealed classes?
+[read this link](https://kotlinlang.org/docs/sealed-classes.html)
+
+### 21.What is the difference between Sealed class and Sealed interface?
