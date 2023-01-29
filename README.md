@@ -71,3 +71,6 @@ To make it short and simple without reducing the number of questions, I have put
 ### 25. Difference between lateinit and lazy properties
 [read this](https://amitshekhar.me/blog/lateinit-vs-lazy-in-kotlin)
 
+### 26. What are contracts in kotlin?
+[read this](https://pspdfkit.com/blog/2018/kotlin-contracts/)
+
