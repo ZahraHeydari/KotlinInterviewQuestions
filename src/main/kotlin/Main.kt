@@ -1,18 +1,24 @@
+import function.*
 import operator.A
-import function.dpToPx
 import operator.getAverage
 import operator.plus
 
 fun main(args: Array<String>) {
-    onOperatorOverloading()
+    onOperatorOverloading() //Q1
     println("====================")
-    onInlineFunction()
+    onInlineFunction() //Q2
     println("====================")
-    onSpreadOperator()
+    onSpreadOperator() //Q3
+    println("====================")
+    onOverridingProperty() //Q4
+    println("====================")
+    onDestructingDeclaration() //Q5
+    println("====================")
+    println("abc".split("")) // Before running, guess what will be printed?
 }
 
 /**
- * Q1: implement the body of class A
+ * Q1: Implement the body of class A
  * */
 fun onOperatorOverloading() {
     val a1 = A(10)
@@ -23,7 +29,7 @@ fun onOperatorOverloading() {
 }
 
 /**
- * Q2: write a function that returns the different types of values
+ * Q2: Write a function (dpToPx) that returns the different types of values
  * */
 fun onInlineFunction() {
     val intValue: Int = dpToPx(64)
@@ -34,7 +40,7 @@ fun onInlineFunction() {
 }
 
 /**
- * Q3: write a function that takes variable number of arguments
+ * Q3: Write a function that takes variable number of arguments
  * */
 fun onSpreadOperator() {
     val result = getAverage(1, 2)
@@ -43,4 +49,35 @@ fun onSpreadOperator() {
     val items = intArrayOf(1, 2, 3, 4)
     val res = getAverage(*items)
     println(res)
+}
+
+/**
+ * Q4: As you see the child class extends the parent class.
+ * What will be printed inside init block of the parent class? and why?!!!
+ * */
+fun onOverridingProperty() {
+    Child()
+}
+
+open class Parent {
+    open val foo = 1
+
+    init {
+        println(foo)
+    }
+}
+
+class Child : Parent() {
+    override val foo = 2
+}
+
+/**
+ * Q5: Write the body of c function
+ * */
+fun onDestructingDeclaration() {
+    //val (a, b) = c < d , e > (f) //here spaces are only for confusing!
+    val f = 0
+    val (a, b) = c<D, E>(f)
+    println(a)
+    println(b)
 }
