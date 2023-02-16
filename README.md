@@ -7,6 +7,8 @@ To make it short and simple without reducing the number of questions, I have put
 
 ### 1. How does Kotlin work on Android?
 
+[read this link](https://kotlinlang.org/docs/android-overview.html)
+
 ### 2. Why should we use Kotlin?
 
 ### 3. What is the difference between 'const' and 'val'?
@@ -116,3 +118,31 @@ To make it short and simple without reducing the number of questions, I have put
 ### 30. What is the difference between == and === in Kotlin?
 
 [read this link](https://amitshekhar.me/blog/structural-and-referential-equality-in-kotlin)
+
+### 31. How would you create Singleton classes in Kotlin?
+
+[read this link](https://blog.mindorks.com/how-to-create-a-singleton-class-in-kotlin)
+
+### 32. What are high order function? List some cons of using high order functions.
+
+[read this link](https://kotlinlang.org/docs/lambdas.html)
+
+### 33. What is async?
+
+[read this link](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/async.html)
+
+### 34. What is meant by Kotlin Generics?
+
+[read this link](https://www.baeldung.com/kotlin/generics)
+
+### 35. State the types of constructors in Kotlin.
+
+[read this link](https://kotlinlang.org/docs/classes.html#constructors)
+
+### 36. List benefits of Kotlin over Java.
+
+[read this link](https://www.baeldung.com/kotlin/java-vs-kotlin)
+
+### 37. What is 'When' block in Kotlin, Where it is used?
+
+[read this link](https://www.baeldung.com/kotlin/when)
