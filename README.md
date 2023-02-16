@@ -116,3 +116,18 @@ To make it short and simple without reducing the number of questions, I have put
 ### 30. What is the difference between == and === in Kotlin?
 
 [read this link](https://amitshekhar.me/blog/structural-and-referential-equality-in-kotlin)
+
+### 31. How would you create Singleton classes in Kotlin?
+
+### 32. What are high order function? cons of using high order functions
+
+### 33. What is async?
+
+### 34. What is meant by Kotlin Generics?
+
+### 35. How many types of constructors are there in Kotlin?
+
+### 36. List bebefits of Kotlin over java
+
+### 37. What is 'When' keyword in java, Where it is used?
+
