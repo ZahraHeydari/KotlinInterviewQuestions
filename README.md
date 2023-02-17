@@ -67,7 +67,7 @@ To make it short and simple without reducing the number of questions, I have put
 
 ### 17. What are Observable properties?
 
-### 18. What are Storing properties?
+### 18. How can we use Map to back properties?
 
 [read this link](https://kotlinlang.org/docs/delegated-properties.html)
 
